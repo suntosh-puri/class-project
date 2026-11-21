@@ -24,7 +24,7 @@ const data = {
   navMain: [
     {
       title: "Dashboard",
-      url: "/dashboard",
+      url: "/",
       icon: (
         <LayoutDashboardIcon
         />
@@ -32,7 +32,7 @@ const data = {
     },
     {
       title: "Contact",
-      url: "/dashboard/contact",
+      url: "/counter/contact",
       icon: (
         <ListIcon
         />
@@ -40,7 +40,7 @@ const data = {
     },
     {
       title: "Counter",
-      url: "/dashboard/Counter",
+      url: "/counter/Counter",
       icon: (
         <ChartBarIcon
         />
