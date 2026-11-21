@@ -32,7 +32,7 @@ const data = {
     },
     {
       title: "Contact",
-      url: "/counter/contact",
+      url: "/contact",
       icon: (
         <ListIcon
         />
@@ -40,7 +40,7 @@ const data = {
     },
     {
       title: "Counter",
-      url: "/counter/Counter",
+      url: "/counter",
       icon: (
         <ChartBarIcon
         />
